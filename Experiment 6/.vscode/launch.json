@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PriorityThread",
+            "request": "launch",
+            "mainClass": "PriorityThread",
+            "projectName": "Experiment 6_f3b7dcba"
+        }
+    ]
+}
